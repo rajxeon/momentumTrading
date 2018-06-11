@@ -1,0 +1,10 @@
+{
+	"database":{
+		"windows":{
+			"host":"localhost",
+			"username":"root",
+			"password":"",
+			"db":"crypto"
+		}
+	}
+}
